@@ -1,0 +1,316 @@
+2020-05-12T16:27:37.268
+Le mans-- Eliminatoria
+1. Seat Toledo
+2. Seat Inca
+3. Seat Fiesta
+2020-05-12T16:27:43.409
+Daytona-- Eliminatoria
+1. Ferrari Testarrosa
+2. Ferrari 612
+3. Ferrari 250
+2020-05-12T16:27:57.338
+Le mans-- Estandard
+1. Seat Ibiza
+2. Seat Inca
+3. Seat 600
+2020-05-12T17:09:03.674
+Le mans-- Eliminatoria
+1. Seat Tres
+2. Seat Inca
+3. Seat 600
+2020-05-12T17:30:14.699
+Le mans-- Eliminatoria
+1. Ferrari Daytona
+2. Ferrari 612
+3. Ferrari Mondial
+2020-05-12T17:34:35.710
+Le mans-- Eliminatoria
+1. Renault Aguita
+2. Renault Priot
+3. Renault Captur
+2020-05-12T17:37:56.570
+Le mans-- Estandard
+1. Honda Chif
+2. Honda Luna
+3. Honda Kona
+2020-05-12T17:38:12.405
+Le mans-- Estandard
+1. Honda Chif
+2. Honda Billy bi
+3. Honda Civic
+2020-05-12T19:24:05.856
+Daytona-- Estandard
+1. Seat Mallorca
+2. Seat Toledo
+3. Seat Fiesta
+2020-05-12T19:40:39.517
+Daytona-- Eliminatoria
+1. Ferrari 612
+2. Ferrari Mondial
+3. Ferrari 250
+2020-05-12T19:41:38.006
+Le mans-- Estandard
+1. Hyunday Connect
+2. Hyunday Z4
+3. Hyunday Tenor
+2020-05-13T09:58:08.311
+Daytona-- Estandard
+1. Ferrari Testarrosa
+2. Ferrari 250
+3. Ferrari 812
+2020-05-13T09:59:42.719
+Le mans-- Estandard
+1. Ferrari Roma
+2. Ferrari 612
+3. Ferrari Testarrosa
+2020-05-13T10:00:00.159
+Valencia-- Eliminatoria
+1. Seat Ibiza
+2. Seat Mallorca
+3. Seat 600
+2020-05-13T10:00:48.985
+Jerez-- Estandard
+1. Hyunday Sian
+2. Hyunday Tenor
+3. Hyunday Connect
+2020-05-13T10:00:54.509
+Daytona-- Estandard
+1. Ferrari Roma
+2. Ferrari 400
+3. Ferrari Daytona
+2020-05-13T10:09:52.111
+Valencia-- Eliminatoria
+1. Ferrari Daytona
+2. Ferrari Roma
+3. Ferrari 250
+2020-05-13T10:10:22.619
+Montmelo-- Eliminatoria
+1. Hyunday Z4
+2. Hyunday Ciruela
+3. Hyunday Connect
+2020-05-13T10:43:02.619
+Daytona-- Eliminatoria
+1. Ferrari 612
+2. Hyunday Connect
+2020-05-13T10:43:21.759
+Jerez-- Estandard
+1. Hyunday Ciruela
+2. Ferrari 400
+3. Seat Inca
+2020-05-13T10:43:35.642
+Jerez-- Estandard
+1. Hyunday Connect
+2. Hyunday Sian
+3. Hyunday Z4
+2020-05-13T10:43:46.121
+Daytona-- Eliminatoria
+1. Ferrari 812
+2. Seat Toledo
+2020-05-13T10:44:00.588
+Valencia-- Eliminatoria
+1. Hyunday Infarto
+2. Seat Tres
+2020-05-13T10:44:22.994
+Valencia-- Eliminatoria
+1. Ferrari 612
+2. Seat Toledo
+2020-05-13T10:45:39.496
+Daytona-- Eliminatoria
+1. Ferrari Daytona
+2. Ferrari 812
+3. Ferrari Testarrosa
+2020-05-13T10:46:43.589
+Daytona-- Eliminatoria
+1. Hyunday Tenor
+2. Mclaren Pear
+3. Seat 600
+2020-05-13T10:47:01.753
+Le mans-- Eliminatoria
+1. Seat Inca
+2. Mclaren Apple
+3. Hyunday Infarto
+2020-05-13T10:47:09.298
+Jerez-- Eliminatoria
+1. Ferrari Mondial
+2. Mclaren Lemon
+3. Seat Tres
+2020-05-13T10:47:24.542
+Jerez-- Eliminatoria
+1. Seat Ibiza
+2. Seat Fiesta
+3. Seat Tres
+2020-05-13T10:47:30.201
+Le mans-- Eliminatoria
+1. Seat Inca
+2. Mclaren Denver
+3. Hyunday Melon
+2020-05-13T10:47:42.803
+Montmelo-- Eliminatoria
+1. Mclaren Lemon
+2. Ferrari 612
+3. Hyunday Banana
+2020-05-13T11:18:41.333
+Jerez-- Eliminatoria
+1. Seat Mallorca
+2. Seat Toledo
+3. Seat Inca
+2020-05-13T11:19:09.404
+Valencia-- Estandard
+1. Seat Inca
+2. Ferrari 612
+3. Hyunday Tenor
+2020-05-13T15:02:28.338
+Jerez-- Estandard
+1. Ferrari Roma
+2. Ferrari Mondial
+3. Ferrari Daytona
+2020-05-13T15:02:36.563
+Jerez-- Eliminatoria
+1. Ferrari 250
+2. Ferrari Mondial
+3. Ferrari 612
+2020-05-13T15:02:40.599
+Jerez-- Eliminatoria
+1. Ferrari 400
+2. Ferrari Mondial
+3. Ferrari Daytona
+2020-05-13T15:02:42.949
+Jerez-- Eliminatoria
+1. Ferrari Roma
+2. Ferrari Mondial
+3. Ferrari 612
+2020-05-13T15:02:46.932
+Jerez-- Estandard
+1. Hyunday Z4
+2. Hyunday Ciruela
+3. Hyunday Tenor
+2020-05-13T15:02:50.907
+Jerez-- Estandard
+1. Hyunday Connect
+2. Hyunday Z4
+3. Hyunday Tenor
+2020-05-13T15:02:53.476
+Jerez-- Estandard
+1. Hyunday Marc
+2. Hyunday Connect
+3. Hyunday Ciruela
+2020-05-13T16:01:48.763
+Daytona-- Eliminatoria
+1. Ferrari 250
+2. Ferrari Roma
+3. Ferrari 612
+2020-05-13T16:01:52.038
+Daytona-- Eliminatoria
+1. Ferrari 812
+2. Ferrari Roma
+3. Ferrari Testarrosa
+2020-05-13T16:33:29.771
+Daytona-- Estandard
+1. Ferrari 250
+2. Ferrari Mondial
+3. Ferrari Testarrosa
+2020-05-13T16:33:33.890
+Jerez-- Estandard
+1. Ferrari Daytona
+2. Ferrari 612
+3. Ferrari 812
+2020-05-13T16:33:38.810
+Jerez-- Estandard
+1. Hyunday Connect
+2. Hyunday Infarto
+3. Hyunday Marc
+2020-05-13T16:33:41.366
+Jerez-- Estandard
+1. Hyunday Infarto
+2. Hyunday Ciruela
+3. Hyunday Banana
+2020-05-13T16:45:49.546
+Daytona-- Eliminatoria
+1. Ferrari 612
+2. Ferrari Daytona
+3. Ferrari Roma
+2020-05-13T16:46:03.673
+Jerez-- Eliminatoria
+1. Seat 600
+2. Ferrari 250
+3. Mclaren Bash
+2020-05-13T16:52:55.032
+Daytona-- Eliminatoria
+1. Ferrari 812
+2. Ferrari Daytona
+3. Ferrari 612
+2020-05-13T16:52:57.940
+Daytona-- Eliminatoria
+1. Ferrari 612
+2. Ferrari Testarrosa
+3. Ferrari 812
+2020-05-13T16:52:59.892
+Daytona-- Eliminatoria
+1. Ferrari Mondial
+2. Ferrari 400
+3. Ferrari 612
+2020-05-13T16:53:04.947
+Montmelo-- Estandard
+1. Seat Fiesta
+2. Seat Tres
+3. Seat Toledo
+2020-05-13T16:53:08.660
+Montmelo-- Estandard
+1. Seat Fiesta
+2. Seat Tres
+3. Seat 600
+2020-05-13T17:36:47.309
+Jerez-- Eliminatoria
+1. Audi Klept
+2. Audi A4
+3. Audi Fury
+2020-05-13T17:36:54.580
+Jerez-- Eliminatoria
+1. Ferrari 812
+2. Ferrari Mondial
+3. Ferrari Daytona
+2020-05-13T17:37:01.055
+Jerez-- Estandard
+1. Audi T67
+2. Audi SIm
+3. Audi Road
+2020-05-13T17:37:20.995
+Coruña-- Eliminatoria
+1. Audi Etron
+2. Audi Fury
+3. Audi T67
+2020-05-14T10:10:41.566
+Le mans-- Estandard
+1. Seat 600
+2. Seat Tres
+3. Seat Ibiza
+2020-05-14T14:49:21.735
+Le mans-- Eliminatoria
+1. Hyunday Melon
+2. Ferrari Mondial
+3. Mclaren Pear
+2020-05-14T19:35:55.290
+Coruña-- Eliminatoria
+1. Audi Etron
+2. Audi A4
+3. Audi Road
+2020-05-14T22:26:12.440
+Daytona-- Eliminatoria
+1. Audi Lepra
+2. Audi Etron
+3. Audi Chem
+2020-05-14T22:53:54.573
+Coruña-- Eliminatoria
+1. Ferrari Mondial
+2. Ferrari 400
+3. Ferrari Daytona
+2020-05-14T23:04:15.296
+Omaha-- Eliminatoria
+1. Audi Etron
+2. Audi Fury
+3. Audi A4
+2020-05-15T10:52:03.168
+Jerez-- Eliminatoria
+1. Hyunday Melon
+2. Hyunday Sian
+3. Hyunday Z4
